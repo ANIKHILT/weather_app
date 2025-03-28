@@ -1,2 +1,2 @@
 #API key
-key = ""
+key = "0a69563b60e30255c81a5974a29cb6a9"
